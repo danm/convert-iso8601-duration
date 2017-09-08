@@ -1,0 +1,25 @@
+{
+  "name": "convert-iso8601-duration",
+  "version": "1.0.0",
+  "description": "Convert YouTube like duration strings to seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danm/convert-iso8601-duration.git"
+  },
+  "keywords": [
+    "iso8601",
+    "youtube",
+    "time",
+    "duration"
+  ],
+  "author": "Daniel Morrison <daniel.morrison@bbc.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danm/convert-iso8601-duration/issues"
+  },
+  "homepage": "https://github.com/danm/convert-iso8601-duration#readme"
+}
