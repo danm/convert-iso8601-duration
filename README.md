@@ -10,6 +10,12 @@ npm i -S convert-iso8601-duration
 ```
 const isoConvert = require('convert-iso8601-duration');
 const seconds = isoConvert('PT1M37S')
-console.log('seconds', seconds); // 97
+console.log('seconds', seconds); // 'seconds', 97
 console.log('ms', (seconds * 1000)); // 97000
 ```
+
+## Test
+npm test
+
+## Build
+npm run build
